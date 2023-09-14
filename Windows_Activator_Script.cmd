@@ -242,7 +242,7 @@ echo Evaluation Editions cannot be activated.
 echo You need to install full version of %winos%
 echo:
 echo Download it from here,
-echo https://massgrave.dev/genuine-installation-media.html
+echo https://github.com/Nathan-Busse/Windows-Activator-Script
 goto dk_done
 )
 )
